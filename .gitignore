@@ -1,0 +1,15 @@
+test_audio
+experiments
+generated_samples
+model_checkpoints
+audio_samples
+dataset
+metrics
+checkpoints
+*.zip
+__pycache__/
+*.pyc
+decoder
+encoder
+wavtokenizer*
+configs
